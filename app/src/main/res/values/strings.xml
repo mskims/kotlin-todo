@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Todos</string>
+    <string name="action_settings">Settings</string>
+    <string name="empty_todos_message">No TODOs, please add one</string>
+    <string name="title_hint">Title</string>
+    <string name="description_hint">TODO Description</string>
+    <string name="add_todo">Add</string>
+    <string name="save">Save</string>
+</resources>
